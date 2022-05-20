@@ -1,0 +1,68 @@
+.main {
+  &__header {
+
+  }
+
+  &__body {
+  }
+}
+
+.header-main {
+  display: flex;
+  &__column {
+    display: flex;
+  }
+
+  &__text {
+    font-size: 12px;
+  }
+
+  &__input-student {
+  }
+
+  &__input-group {
+  }
+}
+
+.body-main {
+  &__form {
+  }
+
+  &__row {
+  }
+
+  &__column {
+  }
+
+  &__item {
+  }
+
+  &__text {
+  }
+
+  &__input {
+    &_height {
+    }
+
+    &_width {
+    }
+
+    &_perimeter {
+    }
+
+    &_square {
+    }
+
+    &_height-diagonal {
+    }
+  }
+
+  &__block {
+  }
+
+  &__select {
+  }
+
+  &__butt {
+  }
+}
